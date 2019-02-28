@@ -14,7 +14,7 @@
     "test": "jshint --verbose lib/*.js && mocha test/*.test.js"
   },
   "dependencies": {
-    "jsonpath": "~0.2.2",
+    "jsonpath": "~1.0.1",
     "uuid": "~2.0.1"
   },
   "optionalDependencies": {
